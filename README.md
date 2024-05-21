@@ -1,7 +1,7 @@
 README
 
 <p>
- <img src="imagem.png" alt="imagem" width="100%" />
+ <img src="imagem.png" alt="To do List" width="100%" />
 </p>
 
 ## 🖥️ Projeto
